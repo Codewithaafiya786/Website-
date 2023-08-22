@@ -1,0 +1,51 @@
+<!DOCTYPE HTML >
+<HTML > 
+<HEAD > 
+<STYLE >
+BODY{
+    background colour :    green; 
+}
+
+
+h1{
+   colour :  red;
+   text- align: centre ;
+}
+
+
+p{
+ colour :  white;
+ font -family : verdana;
+ font - size:20 px;
+}
+
+
+img{
+ border : 2px solid # ddd;
+}
+
+
+link {
+    background colour : white ;
+}
+
+
+</STYLE>
+</HEAD >
+<BODY > 
+<span> <h1> html introduction</h1></span>
+<p> hi, <br> i am Aafiya Shaheen <br>
+diploma in information technology <br>
+a keen interest in  web development  as well  as
+python  programming and  i have detailed  understanding
+of complex <br>
+programming language and  consideration <br>
+ans making  an innovative  approach  to actualizing
+marketing plans. <br>
+ i do have an  experience  in working  on multiple projects  <br>
+  which are focused  on python / Android / web development .<p>
+  <img src = "/storage/emulated/0/Pictures/.thumbnails/12148.jpg  " alt =" my pic " width=" 200"
+  height=" 300">
+  <a href =" /storage/emulated/0/Pictures/.thumbnails/18886.jpg " > <br> this is my pic </a>
+</BODY >
+</HTML >
