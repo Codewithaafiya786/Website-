@@ -1,0 +1,12 @@
+<! DOCTYPE HTML >
+<html >
+<HEAD>
+<tittle> <b>web development </b></tittle>
+</HEAD>
+<body >
+<h1>html introduction</h1>
+<p>  html is the foundational language  use to create the structure and content of a web page . it ysed to defined  element  such has headings paragraph  images link form and more.  html provide the building  blocks for organising and  presenting  information on a web page . </p>
+<img src =" /storage/emulated/0/Pictures/.thumbnails/1000002909.jpg " alt = " html pic " width= " 200px" height="300px "> <br>
+<a href ="  https://www.google.com/search?tbm=nws&q=News&client=ms-android-oppo-rvo2&sourceid=chrome-mobile&ie=UTF-8  " > go to Google </a>
+</body>
+</html >
